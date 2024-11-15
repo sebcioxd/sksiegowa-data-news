@@ -1,0 +1,1 @@
+Przy modyfikacji news-data.json, tam gdzie mamy ostatni artykuł oraz nawias kończący czyli "}" należy do niego napisać przecinek. Czyli "}," Potem możemy dodać swój artykuł. Nie trzeba będzie dodawać przecinka. To samo trzeba robić przy kolejnych artykułach.

@@ -1,6 +1,6 @@
 1. Wejdż do poradnik.txt i skopiuj szablon.
 
-2. Kliknij na plik news.data.json, a nastepnie po prawej stronie na górze masz ołówek. Kliknij na niego.
+2. Kliknij na plik news.data.json, a nastepnie po prawej stronie na górze masz ołówek. Kliknij na niego. Potem w prawie tym samym miejscu masz menu rozwijające z napisem "No-wrap". Kliknij na nie i zmień na "Soft-wrap".
 Teraz jesteś w edycji pliku. Nic się nie stanie jak popełnisz błąd, tutaj są robione regularne backupy.
 
 3. Przy ostatnim zamykającym nawiasie, dopisz precinek.

@@ -1,1 +1,0 @@
-{ "title": "tytuł", "description": "opis artykułu", "longerDesc": "Długi opis artykułu, czyli to co się wyświetli po kliknięciu w Czytaj dalej", "date": "Data, np. 15.11.2024", "id": "Identyfikator artykułu, to co się wyświetla w linku. może być to dowolny napisa bez spacji i polskich znaków, np. podatki-podwyzszone" }

@@ -1,15 +1,12 @@
-1. Wejdż do poradnik.txt i skopiuj szablon.
+# JAK WGRYWAC AKTUALNOSCI NA super-ksiegowa.pl
 
-2. Kliknij na plik news.data.json, a nastepnie po prawej stronie na górze masz ołówek. Kliknij na niego. Potem w prawie tym samym miejscu masz menu rozwijające z napisem "No-wrap". Kliknij na nie i zmień na "Soft-wrap".
-Teraz jesteś w edycji pliku. Nic się nie stanie jak popełnisz błąd, tutaj są robione regularne backupy.
+1. Wejdz w folder articles, i dodaj w nim nowy plik o nazwie artykul[numer], gdzie numer to numer dodany o 1 w porownaniu do ostatniego artykułu
+(Nazwa moze byc dowolna, ale łatwiej się odnalezdz w takim ustawieniu plików)
 
-3. Przy ostatnim zamykającym nawiasie, dopisz precinek.
+2. Skopiuj do niego elementy z przyklad.mdx, i ustaw je według twojego uznania.
 
-4. Wklej szablon i zamień go zmiennymi na wszystkie dane artykułu. 
-Pamiętaj żeby każde pole uzupełnić. Jeżeli artykuł jest własnoręcznie robiony, to w miejsce link daj poprostu link do strony raksa.
+3. Zatwierdz wszystkie zmiany za pomocą GitHuB Dekstop lub przez stronę/konsole
 
-5. Artykuł pojawi się na stronie w ciągu 5 minut.
+4. Artykuł pojawi się na stronie w ciągu maksymalnie 3 godzin.
 
-
-WSKAZÓWKI:
-Przy modyfikacji news-data.json, tam gdzie mamy ostatni artykuł oraz nawias kończący czyli "}" należy do niego napisać przecinek. Czyli "}," Potem możemy dodać swój artykuł. Nie trzeba będzie dodawać przecinka. To samo trzeba robić przy kolejnych artykułach. Mówie o tym w kroku 3.
+https://super-ksiegowa.pl/aktualnosci
